@@ -1,10 +1,14 @@
-hello there i am Me
-i Do Things such as Make Bad Code
-im fairly bad at everything but i make it work somehow
-thats about it
+# hello
 
-also is this a markdown file if so let me try some uhhh
+im god damn stupid  
+i make things that nobody needed  
+but like they still work somehow  
 
-# i forgot what this does
+also uh. languages i do.
+- lua
+- html/css/js
+- batch kind of not really im learning it shut the fuck up
+- a language that im writing but it doesnt really have a name as of now
+- something else that i  cant fucking remeber
 
-smh
+ok
